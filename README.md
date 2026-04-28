@@ -126,7 +126,13 @@ class Detailesscreen extends StatelessWidget {
   
   output 
 
- image 1 
+## Screenshots
+
+| HomeScreen | DetailScreen |
+|------------|--------------|
+| ![HomeScreen](assets/screenshots/WhatsApp%20Image%202026-04-29%20at%201.25.15%20AM%20(1).jpeg) | ![DetailScreen](assets/screenshots/WhatsApp%20Image%202026-04-29%20at%201.25.15%20AM%20(2).jpeg) |
+
+image 1 
  assets\screenshots\WhatsApp Image 2026-04-29 at 1.25.15 AM (2).jpeg
 
  image 2 
